@@ -58,9 +58,6 @@ Use Matplotlib and Seaborn to create visualizations that show sentiment distribu
 - **get_sentiment(text)**: Uses TextBlob to determine the sentiment of the text.
 - **predict_sentiment(text)**: Predicts the sentiment of the given text using the trained model and TF-IDF vectorizer.
 
-## Conclusion
-Summarize the findings of the project, including the sentiment patterns and insights gained from the analysis. Discuss potential improvements and future work.
-
 ## References
 - [Pandas Documentation](https://pandas.pydata.org/)
 - [TextBlob Documentation](https://textblob.readthedocs.io/en/dev/)
